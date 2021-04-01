@@ -1,4 +1,4 @@
-from Test_2 import Rectangle
+from Test_2_1 import Rectangle
 
 #далее создаем два прямоугольника
 
